@@ -11,7 +11,7 @@ class App extends Component {
         <Navigation />
         <div className="main-layout">
           <h1 className="title">
-            Discover Your Next Side Project{' '}
+            Today's Domains {' '}
             <span role="img" aria-label="rocket">
               🚀
             </span>
@@ -19,8 +19,8 @@ class App extends Component {
           <p>(we update our domains daily <span role="img" aria-label="confidence">😏</span>)</p>
 
           <h3><a href="mailto:raulsanchez1024@gmail.com?subject=I would like to buy Allotra.com" className="domain">Allotra.com - $125</a></h3>
-          <h3><a href="mailto:raulsanchez1024@gmail.com?subject=I would like to buy Fivefy.com" className="domain">Fivefy.com - $99</a></h3>
-          <h3><a href="mailto:raulsanchez1024@gmail.com?subject=I would like to buy Privus.xyz" className="domain">Privus.xyz - $19</a></h3>
+          <h3><a href="mailto:raulsanchez1024@gmail.com?subject=I would like to buy Fivefy.com" className="domain">Fivefy.com - $45</a></h3>
+          <h3><a href="mailto:raulsanchez1024@gmail.com?subject=I would like to buy Privus.xyz" className="domain">Privus.xyz - $11</a></h3>
         </div>
 
         <Footer />
