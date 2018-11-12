@@ -19,6 +19,10 @@ a.brand:hover {
   color: #bf7ef4;
 }
 
+.nav-links a {
+  padding-right: 15px;
+}
+
 hr {
   border: 0;
   clear:both;
