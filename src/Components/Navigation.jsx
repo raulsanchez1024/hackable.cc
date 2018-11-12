@@ -11,7 +11,7 @@ class Navigation extends Component {
         </a>
 
         <div className="nav-links">
-          <a href="/">Ideas</a>
+          <a href="https://docs.google.com/spreadsheets/d/1ktMC3dZegBKHm4dNviNHDGgsM3_7GcWjSh4FYvvbIvI/edit?usp=sharing">Ideas</a>
           <a href="/">News</a>
         </div>
 
